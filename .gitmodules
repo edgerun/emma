@@ -1,3 +1,6 @@
 [submodule "master"]
 	path = master
 	url = https://github.com/edgerun/emma-master
+[submodule "sidecar"]
+	path = sidecar
+	url = https://github.com/edgerun/emma-sidecar
