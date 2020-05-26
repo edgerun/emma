@@ -1,0 +1,15 @@
+*~
+*.swp
+.DS_Store
+
+# Eclipse project files
+.project
+.classpath
+.settings
+.metadata
+
+# IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+.idea
