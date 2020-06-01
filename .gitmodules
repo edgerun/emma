@@ -4,3 +4,6 @@
 [submodule "sidecar"]
 	path = sidecar
 	url = https://github.com/edgerun/emma-sidecar
+[submodule "mqtt-proxy"]
+	path = mqtt-proxy
+	url = https://github.com/edgerun/emma-mqtt-proxy
